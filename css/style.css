@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    text-align: center;
 }
 
 h1{
@@ -9,6 +10,12 @@ h1{
 div{
     background-color:#75cfb8;
        
+}
+
+.top-container{
+    background-color:#75cfb8;
+    position: relative;
+    padding-top: 100px;
 }
 
 .middle-container{
@@ -21,5 +28,17 @@ div{
     background-color: deepskyblue;
     height: 200px;
     width: 200px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 8px;
+    bottom: 880px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 30px;
+    bottom: 800px;
 }
 
