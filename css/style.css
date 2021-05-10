@@ -10,6 +10,7 @@ h1 {
     margin: 0 auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 4.8rem;
+    line-height: 2;
 }
 
 h2 {
@@ -17,6 +18,7 @@ h2 {
     color: #177a7a;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
+    font-weight: normal;
 }
 
 h3 {
@@ -47,8 +49,10 @@ h3 {
     bottom: 800px;
 }
 
+
+
 .skill-row{
-    width: 50%;
+    width: 28%;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
@@ -74,5 +78,5 @@ h3 {
 }
 
 .skill02-description{
-    clear :right;
+clear : right;
 }
